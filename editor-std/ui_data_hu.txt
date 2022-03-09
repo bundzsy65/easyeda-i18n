@@ -966,7 +966,8 @@ Object = Objektum
 DRC Clearance = KDK clearance 	
 [/drcRule]	[/drcRule]	
 #It will take a while to unroute this net, do you want to continue?		
-More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = Több netlabel található a huzalban, kérjük, ellenőrizze, hogy ez helyes-e , ha szándékosan tervezte meg , kérjük, hagyja figyelmen kívül ezt a figyelmeztetést. 	
+More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = Több netlabel található a huzalban, kérjük, ellenőrizze, hogy ez helyes-e , ha szándékosan tervezte meg , kérjük, 
+figyelmen kívül ezt a figyelmeztetést. 	
 Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning. = Hiányos háló, a teljes hálónak két vagy több csapot kell tartalmaznia , ha szándékosan tervezi , kérjük, hagyja figyelmen kívül ezt a figyelmeztetést. 	
 This netlabel is not connected with any pin. = Ez a netlabel nincs csatlakoztatva semmilyen tűhöz. 	
 Incomplete connection, please check. = Hiányos kapcsolat, kérjük, ellenőrizze.	
@@ -1468,7 +1469,7 @@ Are you sure you want to leave this page? =  Biztosan elhagyja ezt az oldalt?
 Confirm Reload = Újratöltés megerősítése 	
 Confirm Close = Megerősítés Bezárás 	
 Reload this page = Az oldal újratöltése 	
-Leave this page = Hagyja ezt az oldalt 	
+Leave this page = Mentés nélküli kilépés 	
 Stay on this page = Maradj ezen az oldalon 	
 Don't reload = Ne töltse be újra 	
 No connect flag only can be placed on Pin dot or the wire which is connected one Pin. = Nincs csatlakozási jelző csak a Pin-ponton vagy az egy pinre csatlakoztatott vezetéken helyezhető el. 	
